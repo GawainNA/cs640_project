@@ -13,3 +13,5 @@ This project presents a reasonable frame to evaluate text-to-image models. With 
 
 **OCR:** CRAFT-Text-Extraction and EasyOCR
 
+## Dataset
+COCO 2017 with Caption
