@@ -15,3 +15,6 @@ This project presents a reasonable frame to evaluate text-to-image models. With 
 
 ## Dataset
 COCO 2017 with Caption
+
+## How to use
+Follow the `Evaluation_Frame.ipynb` to build a frame with defult model setting.
